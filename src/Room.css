@@ -1,0 +1,17 @@
+.room {
+    height: 100vh;
+}
+.lit {
+    background-color:lightblue;
+    color: rgba(0, 0, 128, 0.836);
+    border-color: navy;
+    border-style: solid;
+    border-width: thick;
+}
+.dark {
+    background-color:rgba(2, 2, 121, 0.884);
+    color: lightblue; 
+    border-color: lightblue;
+    border-style: solid;
+    border-width: thick;
+}
